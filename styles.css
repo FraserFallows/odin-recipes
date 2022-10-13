@@ -44,3 +44,8 @@ p {
 #index-background{
     background-color:coral;
 }
+#contributors {
+    position: fixed;
+    bottom:5px;
+    background-color:rgb(154 25 185)
+}
