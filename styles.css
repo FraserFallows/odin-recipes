@@ -1,0 +1,40 @@
+.image {
+    width:400px;
+    height: auto;
+    
+}
+.recipe {
+    background-color: rgb(212, 176, 30);
+    color: rgb(69, 4, 4);
+    font-size: 28px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+}
+#lasagna {
+    color:yellow;
+}
+#pizza {
+    color:red;
+}
+.recipe.title {
+    font-size:40px;
+    font-weight:bold;
+    color:white;
+    background-color: rgb(184, 111, 28);
+}
+.instructions {
+    font-size:20px;
+    background-color:green;
+}
+.instructions#pizza {
+    color:yellow;
+}
+
+p {
+    background-color: blue;
+    color:white;
+}
+.main-title {
+    text-align: center;
+    font-family: sans-serif;
+}
